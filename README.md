@@ -4,14 +4,14 @@ event = {
             "Id": 123
         }
     },
-    "token": "YIGBUYDFAUYVDYQ813G78G81RB1H0RCVY8BUCV1WN9VY01WDCV", 
-    "tipoToken": 3, 
-    "codigoAssociado": 2176501,
+    "token": "KKKKKKKDFAUYVDYQ813G78G81RB1H0RCVY8BUCV1WN9VY01WDCV", 
+    "tipoToken": 2, 
+    "codigoAssociado": 987654321,
     "codigoEmpresa": 0, 
-    "tipoSolicitante": 1, 
-    "codigoSituacao": 2, 
+    "tipoSolicitante": 5, 
+    "codigoSituacao": 8, 
     "comentario": "Cancelamento teste", 
-    "motivoCancelamento": 102, 
-    "dataFimAtendimento": "2022-08-12", 
+    "motivoCancelamento": 404, 
+    "dataFimAtendimento": "05/05/2023", 
     "protocolo": ""
 } 
