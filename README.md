@@ -1,4 +1,3 @@
-# teste-api
 event = { 
     "event": {
         "dadosVendedor": {
